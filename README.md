@@ -11,3 +11,4 @@ Curation of training and helpful resources for information security related topi
 
 *Resources*
 1. SANS - https://www.sans.org/about/
+2. ISSA - https://www.issa.org/?page=CodeofEthics
