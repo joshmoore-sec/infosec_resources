@@ -6,6 +6,7 @@ Curation of training and helpful resources for information security related topi
 2. Enemy Perspective - https://www.optiv.com/explore-optiv-insights/blog/learning-enemy-perspective
 3. Opprotunistic Threats - https://www.optiv.com/explore-optiv-insights/downloads/covid-19-thwarting-opportunistic-attackers-technical-checklist
 
+
 *Assessment Tools*
 1. Review which sites support 2FA and those that don't. https://twofactorauth.org/
 2. ForcePoint URL assessment. https://support.forcepoint.com/KBArticle?id=How-do-I-find-out-how-a-site-is-categorized-1258048436086
@@ -14,4 +15,5 @@ Curation of training and helpful resources for information security related topi
 1. SANS - https://www.sans.org/about/
 2. ISSA - https://www.issa.org/?page=CodeofEthics
 3. Optiv Resources - https://www.optiv.com/explore-optiv-insights?keys=&topic=5596&year=All&sort=latest
+4. ISC2 - https://www.isc2.org/
 
