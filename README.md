@@ -10,6 +10,7 @@ Curation of training and helpful resources for information security related topi
 *Assessment Tools*
 1. Review which sites support 2FA and those that don't. https://twofactorauth.org/
 2. ForcePoint URL assessment. https://support.forcepoint.com/KBArticle?id=How-do-I-find-out-how-a-site-is-categorized-1258048436086
+3. Browser extension review tool - (DUO) - https://crxcavator.io/
 
 *Resources*
 1. SANS - https://www.sans.org/about/
