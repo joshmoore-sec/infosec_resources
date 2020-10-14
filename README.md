@@ -18,3 +18,7 @@ Curation of training and helpful resources for information security related topi
 3. Optiv Resources - https://www.optiv.com/explore-optiv-insights?keys=&topic=5596&year=All&sort=latest
 4. ISC2 - https://www.isc2.org/
 
+*CyberArk*
+1. Privileged Access Management Fundamentals - https://www.cyberark.com/resources/webinars/privileged-access-management-fundamentals-secure-your-success
+2.
+3.
