@@ -20,5 +20,5 @@ Curation of training and helpful resources for information security related topi
 
 *CyberArk*
 1. Privileged Access Management Fundamentals - https://www.cyberark.com/resources/webinars/privileged-access-management-fundamentals-secure-your-success
-2.
+2. Why You Should Be Using Privileged Access Management as a Service - https://www.cyberark.com/resources/webinars/why-you-should-be-using-privileged-access-management-as-a-service
 3.
