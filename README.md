@@ -6,6 +6,7 @@ Curation of training and helpful resources for information security related topi
 2. Enemy Perspective - https://www.optiv.com/explore-optiv-insights/blog/learning-enemy-perspective
 3. Opprotunistic Threats - https://www.optiv.com/explore-optiv-insights/downloads/covid-19-thwarting-opportunistic-attackers-technical-checklist
 4. Modern Marriage - Identity, Data, and Zero Trust - https://www.optiv.com/explore-optiv-insights/downloads/modern-marriage-identity-data-and-zero-trust
+5. 7 Tenets of Successful IAM - https://www.youtube.com/watch?v=XDgE0IGRmgI&feature=youtu.be
 
 *Assessment Tools*
 1. Review which sites support 2FA and those that don't. https://twofactorauth.org/
