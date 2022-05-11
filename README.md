@@ -7,17 +7,24 @@ Curation of training and helpful resources for information security related topi
 3. Opprotunistic Threats - https://www.optiv.com/explore-optiv-insights/downloads/covid-19-thwarting-opportunistic-attackers-technical-checklist
 4. Modern Marriage - Identity, Data, and Zero Trust - https://www.optiv.com/explore-optiv-insights/downloads/modern-marriage-identity-data-and-zero-trust
 5. 7 Tenets of Successful IAM - https://www.youtube.com/watch?v=XDgE0IGRmgI&feature=youtu.be
+6. PowerShell for Active Directory Administrators - https://www.udemy.com/course/powershell-for-active-directory-administrators/
+7. Manage IAM in Azure - https://docs.microsoft.com/en-us/learn/paths/manage-identity-and-access/?source=learn
+8. 
 
-*Assessment Tools*
+*Tools*
 1. Review which sites support 2FA and those that don't. https://twofactorauth.org/
 2. ForcePoint URL assessment. https://support.forcepoint.com/KBArticle?id=How-do-I-find-out-how-a-site-is-categorized-1258048436086
 3. Browser extension review tool - (DUO) - https://crxcavator.io/
+4. Package Manager for Windows - https://chocolatey.org/
+5. Windows Bloodhoud - https://bloodhound.readthedocs.io/en/latest/installation/windows.html
 
 *Resources*
 1. SANS - https://www.sans.org/about/
 2. ISSA - https://www.issa.org/?page=CodeofEthics
 3. Optiv Resources - https://www.optiv.com/explore-optiv-insights?keys=&topic=5596&year=All&sort=latest
 4. ISC2 - https://www.isc2.org/
+5. GSA (Handling of PII) - https://www.gsa.gov/directive/gsa-rules-of-behavior-for-handling-personally-identifiable-information-(pii)-
+6. NIST 800-122 (PII) - https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-122.pdf
 
 *CyberArk*
 1. Privileged Access Management Fundamentals - https://www.cyberark.com/resources/webinars/privileged-access-management-fundamentals-secure-your-success
