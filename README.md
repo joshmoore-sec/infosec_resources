@@ -25,3 +25,6 @@ Curation of training and helpful resources for information security related topi
 3. Rapidly Reducing Risk By Prioritizing PAM as A Service - https://www.cyberark.com/resources/webinars/rapidly-reduce-risk-by-prioritizing-pam-as-a-service
 4. The CyberArk Blueprint: Achieving Privileged Management Success - https://www.cyberark.com/resources/webinars/the-cyberark-blueprint-achieving-privileged-access-management-success
 
+*Podcasts*
+1. Risky Business - https://risky.biz/
+2. Cybrary - https://www.cybrary.it/info/cybrary-podcast/
