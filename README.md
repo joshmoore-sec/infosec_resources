@@ -25,6 +25,7 @@ Curation of training and helpful resources for information security related topi
 4. ISC2 - https://www.isc2.org/
 5. GSA (Handling of PII) - https://www.gsa.gov/directive/gsa-rules-of-behavior-for-handling-personally-identifiable-information-(pii)-
 6. NIST 800-122 (PII) - https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-122.pdf
+7. Microsoft Security Webinars - https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888
 
 *CyberArk*
 1. Privileged Access Management Fundamentals - https://www.cyberark.com/resources/webinars/privileged-access-management-fundamentals-secure-your-success
