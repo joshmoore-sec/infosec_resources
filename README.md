@@ -36,3 +36,6 @@ Curation of training and helpful resources for information security related topi
 *Podcasts*
 1. Risky Business - https://risky.biz/
 2. Cybrary - https://www.cybrary.it/info/cybrary-podcast/
+
+*Hack the Box - Need to Recategorize*
+1. https://osintframework.com/
