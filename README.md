@@ -43,9 +43,13 @@ Curation of training and helpful resources for information security related topi
 3. Metasploitable 2	- https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/ - Is a purposefully vulnerable Ubuntu Linux VM that can be used to practice enumeration, automated, and manual exploitation.
 4.Metasploitable 3 - https://github.com/rapid7/metasploitable3 -	Is a template for building a vulnerable Windows VM configured with a wide range of vulnerabilities.
 5. DVWA	- https://github.com/digininja/DVWA - This is a vulnerable PHP/MySQL web application showcasing many common web application vulnerabilities with varying degrees of difficulty.
-6. Blog - https://0xdf.gitlab.io/
 
-*Hack The Box - Youtube References*
+*HTB Powershell & Scripting Tutortials* 
+1. https://underthewire.tech/wargames
+2. Blog - https://0xdf.gitlab.io/
+3. https://overthewire.org/wargames/
+
+*HTB Youtube References*
 6. IppSec	- https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA -Provides an extremely in-depth walkthrough of every retired HTB box packed full of insight from his own experience, as well as videos on various techniques.
 7. VbScrub - https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ -	Provides HTB videos as well as videos on techniques, primarily focusing on Active Directory exploitation.
 8. STÖK - https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg - Provides videos on various infosec related topics, mainly focusing on bug bounties and web application penetration testing.
