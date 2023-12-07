@@ -37,6 +37,9 @@ Curation of training and helpful resources for information security related topi
 1. Risky Business - https://risky.biz/
 2. Cybrary - https://www.cybrary.it/info/cybrary-podcast/
 
+*Incident Response*
+1. Crowdstrike IR tracker - https://www.crowdstrike.com/blog/crowdstrike-releases-digital-forensics-and-incident-response-tracker/
+
 *Hack the Box - Need to Recategorize*
 1. https://osintframework.com/
 2. OWASP Juice Shop	- https://owasp.org/www-project-juice-shop/ - Is a modern vulnerable web application written in Node.js, Express, and Angular which showcases the entire OWASP Top Ten along with many other real-world application security flaws.
