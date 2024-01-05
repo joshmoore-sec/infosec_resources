@@ -4,7 +4,7 @@ Curation of training and helpful resources for information security related topi
 *CISSP - Last update 1/5/2024*
 1. 8 Domain Note Card - Hasn't been updated since 2018/2019. Contains old information and missing newer information, but a very quality notes card for a number of the foundations. https://www.sunflower-cissp.com/downloads/sunflower_cissp_layout.pdf
 2. Youtube CISSP Exam Cram - Very thorough and covers updates for the 2021 exam. https://www.youtube.com/watch?v=_nyZhYnCNLA
-3. Notecard (Reddit) - https://www.reddit.com/r/cissp/s/bfC7tyzebi
+3. Cheatsheet (Reddit) - https://www.reddit.com/r/cissp/s/bfC7tyzebi
 
 *Security Frameworks & Controls*
 1. CIS - https://www.auditscripts.com/free-resources/critical-security-controls
