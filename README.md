@@ -9,7 +9,7 @@ Curation of training and helpful resources for information security related topi
 
 *Security Frameworks & Controls*
 1. CIS - https://www.auditscripts.com/free-resources/critical-security-controls
-2. NIST -
+2. NIST CSF Explained - https://www.linkedin.com/events/nistcsfexplained7125846309378359296/comments/
 
 *Hack the Box - Need to Recategorize*
 1. https://osintframework.com/
