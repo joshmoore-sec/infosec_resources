@@ -10,6 +10,8 @@ Curation of training and helpful resources for information security related topi
 *Security Frameworks & Controls*
 1. CIS - https://www.auditscripts.com/free-resources/critical-security-controls
 2. NIST CSF Explained - https://www.linkedin.com/events/nistcsfexplained7125846309378359296/comments/
+3. NIST 800-53 - https://delinea.com/blog/nist-800-53-security-privacy-privileged-access
+4. NIST GOV 800-353 - https://csrc.nist.gov/projects/risk-management/sp800-53-controls/downloads
 
 *Hack the Box - Need to Recategorize*
 1. https://osintframework.com/
