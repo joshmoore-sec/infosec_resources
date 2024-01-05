@@ -12,6 +12,7 @@ Curation of training and helpful resources for information security related topi
 2. NIST CSF Explained - https://www.linkedin.com/events/nistcsfexplained7125846309378359296/comments/
 3. NIST 800-53 - https://delinea.com/blog/nist-800-53-security-privacy-privileged-access
 4. NIST GOV 800-353 - https://csrc.nist.gov/projects/risk-management/sp800-53-controls/downloads
+5. Differentiating between Policy, Standards, Procedures, and Guidelines - https://frsecure.com/blog/differentiating-between-policies-standards-procedures-and-guidelines/
 
 *Hack the Box - Need to Recategorize*
 1. https://osintframework.com/
