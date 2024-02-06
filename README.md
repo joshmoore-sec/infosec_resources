@@ -17,6 +17,9 @@ Curation of training and helpful resources for information security related topi
 4. NIST GOV 800-353 - https://csrc.nist.gov/projects/risk-management/sp800-53-controls/downloads
 5. Differentiating between Policy, Standards, Procedures, and Guidelines - https://frsecure.com/blog/differentiating-between-policies-standards-procedures-and-guidelines/
 
+*Azure / Microsoft Entra*
+1. John Savills Youtube (Is a must watch for all things Azure / Entra) - https://www.youtube.com/@NTFAQGuy
+
 *Hack the Box - Need to Recategorize*
 1. https://osintframework.com/
 2. OWASP Juice Shop	- https://owasp.org/www-project-juice-shop/ - Is a modern vulnerable web application written in Node.js, Express, and Angular which showcases the entire OWASP Top Ten along with many other real-world application security flaws.
