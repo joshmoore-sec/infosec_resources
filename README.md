@@ -1,13 +1,14 @@
 # infosec_resources
 Curation of training and helpful resources for information security related topics.
 
-*CISSP - Last update 1/5/2024*
+*CISSP - Last update 2/6/2024*
 1. 8 Domain Note Card - Hasn't been updated since 2018/2019. Contains old information and missing newer information, but a very quality notes card for a number of the foundations. https://www.sunflower-cissp.com/downloads/sunflower_cissp_layout.pdf
 2. Youtube CISSP Exam Cram - Very thorough and covers updates for the 2021 exam. https://www.youtube.com/watch?v=_nyZhYnCNLA
 3. Cheatsheet (Reddit) - https://www.reddit.com/r/cissp/s/bfC7tyzebi
 4. Youtube Think Like a Manager - It is recommended to take the exam from the persona of a manager and not a technical/engineer viewpoint. https://www.youtube.com/watch?v=vfC9OLsCqgk
 5. Think Like a Manager Presentation - https://onedrive.live.com/?authkey=%21AJ2QzIcuTj7FuzI&cid=1590B798C9CD6D68&id=1590B798C9CD6D68%21137612&parId=1590B798C9CD6D68%21136912&o=OneUp
-6. 50 free CISSP Study Questiosn - https://insidethemicrosoftcloud.com/cissp-practice-quiz/
+6. 50 free CISSP Study Questions - https://insidethemicrosoftcloud.com/cissp-practice-quiz/
+7. Cryptography Drilldown - https://www.youtube.com/watch?v=8_NLPDRLfg4
 
 *Security Frameworks & Controls*
 1. CIS - https://www.auditscripts.com/free-resources/critical-security-controls
