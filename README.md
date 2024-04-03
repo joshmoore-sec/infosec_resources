@@ -9,6 +9,7 @@ Curation of training and helpful resources for information security related topi
 5. Think Like a Manager Presentation - https://onedrive.live.com/?authkey=%21AJ2QzIcuTj7FuzI&cid=1590B798C9CD6D68&id=1590B798C9CD6D68%21137612&parId=1590B798C9CD6D68%21136912&o=OneUp
 6. 50 free CISSP Study Questions - https://insidethemicrosoftcloud.com/cissp-practice-quiz/
 7. Cryptography Drilldown - https://www.youtube.com/watch?v=8_NLPDRLfg4
+8. 50 Hard CISSP and also Mindset video - https://youtu.be/qbVY0Cg8Ntw
 
 *Security Frameworks & Controls*
 1. CIS - https://www.auditscripts.com/free-resources/critical-security-controls
